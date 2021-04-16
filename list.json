@@ -1,0 +1,37 @@
+{
+  "coderkearns.github.io": {
+    "name": "coderkearns.github.io",
+    "description": "This very site!!",
+    "url": "https://coderkearns.github.io/#/"
+  },
+  "cookie-clicker": {
+    "name": "Cookie Clicker",
+    "description": "A super simple, unstyled, clicker game.",
+    "url": "https://coderkearns.github.io/cookie-clicker"
+  },
+  "remind": {
+    "name": "Remind",
+    "description": "A future discord bot for automating reminders to forgetful people.",
+    "url": "https://github.com/coderkearns/remind"
+  },
+  "generator-express": {
+    "name": "generator-express",
+    "description": "A yeoman generator for extremely simple express apps.",
+    "url": "https://github.com/coderkearns/generator-express"
+  },
+  "splendor": {
+    "name": "Splendor",
+    "description": "A pass-and-play version of the popular game Splendor!",
+    "url": "https://coderkearns.github.io/splendor"
+  },
+  "foundation": {
+    "name": "Foundation",
+    "description": "Create foundations for new projects!",
+    "url": "https://github.com/coderkearns/foundation"
+  },
+  "htmlshell": {
+    "name": "HTMLshell",
+    "description": "A command-line version of the htmlshell.com website!",
+    "url": "https://github.com/coderkearns/foundation"
+  },
+}

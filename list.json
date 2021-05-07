@@ -12,12 +12,10 @@
   "remind": {
     "name": "Remind",
     "description": "A future discord bot for automating reminders to forgetful people.",
-    "url": "https://github.com/coderkearns/remind"
   },
   "generator-express": {
     "name": "generator-express",
     "description": "A yeoman generator for extremely simple express apps.",
-    "url": "https://github.com/coderkearns/generator-express"
   },
   "splendor": {
     "name": "Splendor",
@@ -27,11 +25,13 @@
   "foundation": {
     "name": "Foundation",
     "description": "Create foundations for new projects!",
-    "url": "https://github.com/coderkearns/foundation"
   },
   "htmlshell": {
     "name": "HTMLshell",
     "description": "A command-line version of the htmlshell.com website!",
-    "url": "https://github.com/coderkearns/foundation"
+  },
+  "data-structures": {
+    "name": "Data Structures",
+    "description": "A collection of some simple data structures, mostly for education purposes."
   }
 }

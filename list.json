@@ -11,11 +11,11 @@
   },
   "remind": {
     "name": "Remind",
-    "description": "A future discord bot for automating reminders to forgetful people.",
+    "description": "A future discord bot for automating reminders to forgetful people."
   },
   "generator-express": {
     "name": "generator-express",
-    "description": "A yeoman generator for extremely simple express apps.",
+    "description": "A yeoman generator for extremely simple express apps."
   },
   "splendor": {
     "name": "Splendor",
@@ -24,11 +24,11 @@
   },
   "foundation": {
     "name": "Foundation",
-    "description": "Create foundations for new projects!",
+    "description": "Create foundations for new projects!"
   },
   "htmlshell": {
     "name": "HTMLshell",
-    "description": "A command-line version of the htmlshell.com website!",
+    "description": "A command-line version of the htmlshell.com website!"
   },
   "data-structures": {
     "name": "Data Structures",
